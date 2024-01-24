@@ -74,7 +74,7 @@ setup(
         "simpleeval==0.9.13",
         "typing-extensions==4.5.0",
         "Jinja2==3.1.2",
-        "nest-asyncio==1.5.6",
+        "nest-asyncio==1.5.8",
     ],
     extras_require={
         "dev": ["fastapi-utils==0.2.1", "watchdog==3.0.0"],
